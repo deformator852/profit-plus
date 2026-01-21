@@ -20,9 +20,9 @@ const App = () => (
         <Header />
         <main>
           <HeroSection />
+          <DetailsSection />
           <OverviewSection />
           <GallerySection />
-          <DetailsSection />
         </main>
         <Footer />
       </div>

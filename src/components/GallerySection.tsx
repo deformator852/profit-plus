@@ -19,7 +19,7 @@ const images = [
 
 const GallerySection = () => {
   return (
-    <section id="gallery" className="py-16 md:py-24">
+    <section id="gallery" className="py-16 md:py-24 bg-card">
       <div className="section-container">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

@@ -31,7 +31,7 @@ const Footer = () => {
       viewport={{ once: true }}
       transition={{ duration: 0.6 }}
       id="contact"
-      className="py-16 md:py-24 border-t border-border bg-muted/30"
+      className="py-16 md:py-24 border-t border-border"
     >
       <div className="section-container">
         {/* Contact cards section */}

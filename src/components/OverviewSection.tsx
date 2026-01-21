@@ -18,7 +18,7 @@ const features = [
 
 const OverviewSection = () => {
   return (
-    <section id="overview" className="py-16 md:py-24 bg-card">
+    <section id="overview" className="py-16 md:py-24">
       <div className="section-container">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

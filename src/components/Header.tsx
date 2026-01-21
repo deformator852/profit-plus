@@ -12,6 +12,12 @@ const Header = () => {
         <div className="flex items-center justify-between h-16">
           <nav className="flex items-center gap-8">
             <a
+              href="#details"
+              className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
+            >
+              Details
+            </a>
+            <a
               href="#overview"
               className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
             >
@@ -22,12 +28,6 @@ const Header = () => {
               className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
             >
               Gallery
-            </a>
-            <a
-              href="#details"
-              className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
-            >
-              Details
             </a>
           </nav>
         </div>
