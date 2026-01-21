@@ -6,26 +6,13 @@ const features = [
     icon: Target,
     title: "Problem Solved",
     description:
-      "Automates crypto trading signals delivery and analysis, helping Telegram groups get timely, reliable, and actionable insights. The web app also lets users easily view all open positions for better tracking and usability.",
+      "Attracting more clients to a crypto signals Telegram group by clearly presenting its benefits and value.",
   },
-
   {
     icon: Users,
     title: "Target Audience",
     description:
-      "Crypto traders in Telegram signals communities who want fast, reliable signal delivery and an easy way to track all open positions and averaging updates without constant manual checking.",
-  },
-  {
-    icon: Zap,
-    title: "Key Features",
-    description:
-      "Instant TradingView-to-Telegram signal forwarding · Automatic saving and display of open positions · Real-time averaging detection and updates · Intuitive web dashboard for viewing all active trades · Efficient backend pipeline for reliable, hands-free operation.",
-  },
-  {
-    icon: Sparkles,
-    title: "Results & Impact",
-    description:
-      "Achieved instant, reliable TradingView-to-Telegram signals · Enabled easy tracking of open positions and averaging on the web app · Eliminated manual monitoring effort and boosted group efficiency.",
+      "Beginners and traders who want reliable, structured signals and consistent results — without staring at charts all day.",
   },
 ];
 

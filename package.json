@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://deformator852.github.io/telegram-crypto-signals-bot",
+  "homepage": "https://deformator852.github.io/profit-plus",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
