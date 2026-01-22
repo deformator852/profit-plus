@@ -23,12 +23,6 @@ const Header = () => {
             >
               Overview
             </a>
-            <a
-              href="#gallery"
-              className="text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
-            >
-              Gallery
-            </a>
           </nav>
         </div>
       </div>

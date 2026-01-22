@@ -5,7 +5,6 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
 import OverviewSection from "@/components/OverviewSection";
-import GallerySection from "@/components/GallerySection";
 import DetailsSection from "@/components/DetailsSection";
 import Footer from "@/components/Footer";
 
@@ -22,7 +21,6 @@ const App = () => (
           <HeroSection />
           <DetailsSection />
           <OverviewSection />
-          <GallerySection />
         </main>
         <Footer />
       </div>
